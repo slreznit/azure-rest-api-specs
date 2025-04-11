@@ -14,7 +14,8 @@
     },
     "azure-sdk-for-js": {
       "integrationRepository": "azure-sdk/azure-sdk-for-js",
-      "mainRepository": "Azure/azure-sdk-for-js"
+      "mainRepository": "Azure/azure-sdk-for-js",
+      "mainBranch": "errorLog"
     },
     "azure-sdk-for-net": {
       "integrationRepository": "azure-sdk/azure-sdk-for-net",
